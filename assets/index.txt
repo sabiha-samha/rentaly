@@ -1,0 +1,301 @@
+Rentaly - Multipurpose Vehicle Car Rental HTML Template
+
+Rentaly - Multipurpose Vehicle Car Rental HTML Template
+
+this is Multipurpose Vehicle Car Html Template made by DuoDevs
+
+font-family: 'Inter', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Outfit', sans-serif;
+
+
+/*-----------------------------------*\
+  #HEADER
+\*-----------------------------------*/
+
+alt = logo
+
+Home
+
+Cars 
+
+BookingMy Account 
+
+Pages 
+
+News 
+
+Elements 
+
+
+Sign In
+
+
+
+/*-----------------------------------*\
+  #HERO
+\*-----------------------------------*/
+
+Fast and Easy Way to Rent a Car
+
+Explore the world with comfortable car
+
+Eiusmod sunt occaecat pariatur ullamco eu cupidatat elit aliqua ut duis minim sed nulla est mollit in proident dolor id commodo officia consectetur nisi.
+
+SUV .
+Hatchback .
+Crossover .
+Convertible .
+Sedan .
+Sports Car .
+Coupe .
+Minivan .
+Station Wagon .
+Pickup Truck .
+Minivans .
+Exotic Cars .
+
+
+
+/*-----------------------------------*\
+  #FEATURE
+\*-----------------------------------*/
+
+Our Features
+
+Dolor esse sint officia est voluptate et qui deserunt et est eiusmod cillum mollit sunt nulla cillum sit ut culpa ullamco.
+
+<ion-icon name="car-sport" aria-hidden="true"></ion-icon>
+
+First class services
+Est dolore ut laboris eu enim eu veniam nostrud esse laborum duis consequat nostrud id
+
+<ion-icon name="construct" aria-hidden="true"></ion-icon>
+
+24/7 road assistance
+Est dolore ut laboris eu enim eu veniam nostrud esse laborum duis consequat nostrud id
+
+<ion-icon name="pricetag" aria-hidden="true"></ion-icon>
+
+Quality at Minimum Expense
+Est dolore ut laboris eu enim eu veniam nostrud esse laborum duis consequat nostrud id
+
+<ion-icon name="earth" aria-hidden="true"></ion-icon>
+
+Free Pick-Up & Drop-Off
+Est dolore ut laboris eu enim eu veniam nostrud esse laborum duis consequat nostrud id
+
+
+
+/*-----------------------------------*\
+  #ABOUT
+\*-----------------------------------*/
+
+alt = about banner
+
+We offer customers a wide range of commercial cars and luxury cars for any occasion.
+
+Lorem ipsum non aliquip esse do eu ad amet laboris do labore reprehenderit mollit exercitation cillum irure fugiat magna laboris aliquip adipisicing consectetur officia dolor minim ea enim amet in ut non non excepteur anim magna dolor nostrud commodo qui irure deserunt adipisicing nisi ex nostrud sunt officia in aliquip velit anim id aliqua qui do sed non ad qui sed in eu in aliqua sunt pariatur occaecat in ullamco deserunt dolor consectetur laborum non duis occaecat nulla ut sed qui sunt id ex sint sed eu excepteur minim nulla minim excepteur exercitation.
+
+15425
+Hours of Work
+
+8745
+Clients Supported
+
+235
+Awards Winning
+
+15
+Years Experience
+
+
+
+/*-----------------------------------*\
+  #ABOUT
+\*-----------------------------------*/
+
+Our Vehicle Fleet
+
+Sit labore et officia eiusmod tempor officia eiusmod dolor exercitation nulla dolore ut id velit et ut anim.
+
+alt = car
+
+Jeep Renegade
+
+<ion-icon name="heart" aria-hidden="true"></ion-icon>
+74
+
+alt = icon
+5
+
+alt = icon
+2
+
+alt = icon
+4
+
+alt = icon
+SUV
+
+Daily rate from
+$265
+
+Rent Now
+
+
+
+BMW M2
+
+<ion-icon name="heart" aria-hidden="true"></ion-icon>
+36
+
+alt = icon
+Sedan
+
+Daily rate from
+$244
+
+Rent Now
+
+
+
+Ferarri Enzo
+
+<ion-icon name="heart" aria-hidden="true"></ion-icon>
+85
+
+alt = icon
+Exotic Car
+
+Daily rate from
+$164
+
+Rent Now
+
+
+
+Ford Raptor
+
+<ion-icon name="heart" aria-hidden="true"></ion-icon>
+59
+
+Pickup Truck
+
+Daily rate from
+$167
+
+Rent Now
+
+
+
+Mini Cooper
+
+<ion-icon name="heart" aria-hidden="true"></ion-icon>
+19
+
+Hatchback
+
+Daily rate from
+$147
+
+Rent Now
+
+
+
+VW Polo
+
+<ion-icon name="heart" aria-hidden="true"></ion-icon>
+79
+
+Hatchback
+
+Daily rate from
+$106
+
+Rent Now
+
+
+
+
+/*-----------------------------------*\
+  #LATEST NEWS
+\*-----------------------------------*/
+
+Latest News
+
+Sit labore et officia eiusmod tempor officia eiusmod dolor exercitation nulla dolore ut id velit et ut anim.
+
+10
+MAR
+
+alt = 
+
+Enjoy Best Travel Experience
+
+Dolore officia sint incididunt non excepteur ea mollit commodo ut enim reprehenderit cupidatat labore ad laborum consectetur.
+
+Read More
+
+12
+MAR
+
+The Future of Car Rent
+
+14
+MAR
+
+Holiday Tips For Backpacker
+
+
+
+/*-----------------------------------*\
+  #FOOTER
+\*-----------------------------------*/
+
+About Rentaly
+
+In tempor magna non ut labore sunt et in adipisicing do in proident veniam officia deserunt mollit velit aliquip sint fugiat reprehenderit sint anim pariatur deserunt id in ut non.
+
+Contact Info
+
+<ion-icon name="location" aria-hidden="true"></ion-icon>
+08 W 36th St, New York, NY 10001
+
+<ion-icon name="call" name="location" aria-hidden="true"></ion-icon>
++1 333 9296
+
+<ion-icon name="mail-outline" name="location" aria-hidden="true"></ion-icon>
+contact@example.com
+
+<ion-icon name="document-outline" name="location" aria-hidden="true"></ion-icon>
+Download Brochure
+
+Quick Links
+
+About
+Blog
+Careers
+News
+Partners
+
+Social Network
+
+<ion-icon name="logo-facebook" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-twitter" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-linkedin" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-pinterest" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-rss" aria-hidden="true"></ion-icon>
+
+Copyright 2023 - Rentaly by Designesia
+
+Terms & Conditions
+Privacy Policy
+
+
+
+/*-----------------------------------*\
+  #BACK TO TOP
+\*-----------------------------------*/
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>

@@ -1,0 +1,158 @@
+<!-- HEADER -->
+
+header.header
+  .container
+    a.logo
+    
+    nav.navbar
+      ul.navbar-list
+        li.navbar-item
+          a.navbar-link
+
+    .nav-open-btn
+      span.span
+
+    button.btn
+
+
+<!-- HERO -->
+
+section.home
+  .container
+    
+    p.section-subtitle
+    h1.h1.section-title
+    p.section-text
+
+    span.animate-text
+
+
+<!-- FEATURE -->
+
+section.section.feature
+  .container
+    h2.h2.section-title
+    span.span
+    
+    ul.feature-list
+      div
+        li.feature-item
+          .feature-card
+            figure.feature-banner.img-holder
+              img.img
+
+              .feature-card-content
+                h4.h4.card-title
+                span.span
+
+
+<!-- ABOUT -->
+
+section.about
+  .container
+
+    .about-content
+      h2.h2.section-title
+        .highlited-text
+
+      p.section-text
+
+    ul.about-list
+      li.about-item
+        .about-card
+          h3.h3.about-card-title
+          span.card-subtitle
+
+
+<!-- cars -->
+
+section.cars
+  .container
+
+      h2.h2.section-title
+      span.span
+
+      ul.vehicle-list
+       li.vehicle-item
+         .vehicle-card
+          figure.card-banner.img-holder
+            img.img-cover 
+
+          .vehicle-card-content
+            h4.h4.card-title
+
+            .icon-box
+              ionicon
+              .text
+
+            ul.card-list
+              li.card-item
+                ionicon
+                span.span
+
+            .card-subtitle
+            span.rent
+
+            button.btn
+
+
+<!-- latest news -->
+
+section.section.latest-news
+  .container
+    h2.h2.section-title
+    span.span
+
+    ul.news-list
+      li.news-item
+        .news-card
+
+         .card-banner-box
+           figure.card-banner.img-holder
+             img.img-cover
+           
+           .card-badge
+            h3.h3.badge-title
+            span.span
+            
+
+          ul.card-content-box
+            li.card-content-item
+              h4.h4.card-title
+              span.span
+              button.btn
+          
+
+<!-- FOOTER -->
+
+
+footer.footer
+  .container
+
+    .footer-top 
+      ul.footer-brand
+        li.footer-brand-item
+          h4.h4.footer-title
+          p.footer-text
+
+
+      ul.footer-list
+        li.footer-item
+          h4.h4.footer-title
+            a.footer-link
+            ionicon
+            span.span
+
+    .footer-bottom
+      a.copyright-text
+
+      ul.footer-bottom-list
+        li.footer-bottom-item
+          a.footer-bottom-link
+           span.span
+
+
+
+<!-- BACK TO TOP BTN -->
+
+a.btn.back-top-btn data="backTopBtn"
